@@ -13,7 +13,6 @@
 ---
 
 ## About Me
-- 🔭 I’m currently: **[Your current role / project]**
 - 👨‍💻 Roles: **AI Engineer** · **Software Engineer**
 - 🌌 You can always find me building the Universe no one talks about — one repository, one pixel, one dream at a time.
 - 🤖 AI is not powerful enough to take over the world (yet) — I use it as a superpower to ship cooler features faster.
@@ -22,59 +21,6 @@
 - ✨ Fun fact: I sketch characters between commits and name servers after them.
 
 ---
-
-## Stats Card (anime-styled)
-- GitHub contributions & overall stats  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WatcherGo&show_icons=true&theme=tokyonight&bg_color=0d111700)
-
-- Top languages  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WatcherGo&layout=compact&theme=tokyonight&bg_color=0d1117aa)
-
-- Streak  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WatcherGo&theme=tokyonight)
-
-- Trophies  
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=WatcherGo&theme=onedark)
-
----
-
-## Tech & Skills
-- Languages: **JavaScript**, **TypeScript**, **Python**, **Go**
-- Frontend: **React**, **Next.js**, **Tailwind CSS**
-- Backend & Tools: **Node.js**, **Bun**, **Express**, **Docker**, **Postgres**
-- Other: pixel art, animation concepts, game dev basics
-
----
-
-## Featured Projects
-- [project-one](https://github.com/WatcherGo/project-one) — A short one-line desc. Role: Lead dev. Tech: React, Node.
-- [project-two](https://github.com/WatcherGo/project-two) — A one-line impact statement. Role: Creator. Tech: Next.js, Postgres.
-- [project-three](https://github.com/WatcherGo/project-three) — Tools or library you maintain.
-
----
-
-## Connect with me
-- Website: https://yourdomain.com
-- Email: your.email@example.com
-- LinkedIn: https://linkedin.com/in/yourprofile
-- X / Twitter: https://twitter.com/yourhandle
-- Discord: your-username#1234 (optional)
-
----
-
-## How to add your custom GIF (quick)
-1. Create a folder named assets/ in your profile repo (WatcherGo/WatcherGo).
-2. Upload your GIF as assets/anime-banner.gif (recommended max width ~880px, file size under ~3–5MB).
-3. Commit and push — the README will show your custom animated banner automatically.
-4. If you prefer not to host the GIF in the repo, replace the fallback GIF URL above with any externally hosted GIF link.
-
----
-
-Notes:
-- I added a centered custom banner area that prefers a local file at assets/anime-banner.gif and includes a hosted fallback GIF.
-- Next, I can: generate a custom GIF for you (tell me style, colors, characters, and frame text), optimize a GIF for web, or replace the hosted fallback with a different animation. Which would you like? # 💫 About Me:
-.👨‍💻 Roles: AI Engineer · Software Engineer<br>🌌 You can always find me building the Universe no one talks about — one repository, one pixel, one dream at a time.<br>🤖 AI is not powerful enough to take over the world (yet) — I use it as a superpower to ship cooler features faster.<br>🛠️ I craft delightful developer experiences, ship pragmatic systems, and obsess over tiny UX details.<br>🎮 Anime, pixel art, and late‑night code binges fuel my creativity.<br>✨ Fun fact: I sketch characters between commits and name servers after them.
-
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/watcherGo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:me@leeche.xyz) 
@@ -86,9 +32,6 @@ Notes:
 ![](https://nirzak-streak-stats.vercel.app/?user=WatcherGo&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=WatcherGo&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=WatcherGo&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -96,6 +39,7 @@ Notes:
 ![](https://github-contributor-stats.vercel.app/api?username=WatcherGo&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=WatcherGo&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
